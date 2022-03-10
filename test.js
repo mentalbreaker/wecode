@@ -11,4 +11,3 @@ const isEven1to50 = (num) => {
     return result
 }
 
-console.log(isEven1to50(50));
